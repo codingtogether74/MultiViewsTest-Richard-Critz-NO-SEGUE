@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1805A22516DE66DD00208391"
-               BuildableName = "MultiViewsTest_DIDSelect.app"
+               BuildableName = "MultiViewsTest_NoSegue.app"
                BlueprintName = "MultiViewsTest_NoSegue"
                ReferencedContainer = "container:MultiViewsTest_NoSegue.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1805A22516DE66DD00208391"
-            BuildableName = "MultiViewsTest_DIDSelect.app"
+            BuildableName = "MultiViewsTest_NoSegue.app"
             BlueprintName = "MultiViewsTest_NoSegue"
             ReferencedContainer = "container:MultiViewsTest_NoSegue.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1805A22516DE66DD00208391"
-            BuildableName = "MultiViewsTest_DIDSelect.app"
+            BuildableName = "MultiViewsTest_NoSegue.app"
             BlueprintName = "MultiViewsTest_NoSegue"
             ReferencedContainer = "container:MultiViewsTest_NoSegue.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1805A22516DE66DD00208391"
-            BuildableName = "MultiViewsTest_DIDSelect.app"
+            BuildableName = "MultiViewsTest_NoSegue.app"
             BlueprintName = "MultiViewsTest_NoSegue"
             ReferencedContainer = "container:MultiViewsTest_NoSegue.xcodeproj">
          </BuildableReference>
